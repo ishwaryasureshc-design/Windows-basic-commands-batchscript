@@ -38,7 +38,7 @@ Remove the directory "my-folder"
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="461" height="167" alt="image" src="https://github.com/user-attachments/assets/606ebdf1-c7f6-406b-8e16-99c8d87c9315" />
+<img width="290" height="90" alt="image" src="https://github.com/user-attachments/assets/fe2c7862-5774-4367-a91d-b6b9b9e39e73" />
 
 
 
